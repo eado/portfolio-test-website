@@ -1,9 +1,10 @@
 * {
-    font-family: "Oswald"
+    font-family: "Oswald";
 }
 
 #bgimage {
     object-fit: cover;
+    object-position: center;
 }
 
 .blacktext {
