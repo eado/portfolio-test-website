@@ -1,0 +1,11 @@
+* {
+    font-family: "Oswald"
+}
+
+#bgimage {
+    object-fit: cover;
+}
+
+.blacktext {
+    color: black;
+}
